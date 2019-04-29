@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title_1">Question 1</string>
+    <string name="title_2">Question 2</string>
+    <string name="title_3">Question 3</string>
+    <string name="title_4">Question 4</string>
+    <string name="summit_answers">Summit Answers</string>
+    <string name="question_1_text">What is the highest possible hand in poker?</string>
+    <string name="full_house">Full house</string>
+    <string name="three_of_kind">Three of a hind</string>
+    <string name="royal_flush">Royal Flush</string>
+    <string name="four_of_kind">Four of a kind</string>
+    <string name="question_2_text">Which of the following hands will beat a flush?</string>
+    <string name="two_pair">Two pair</string>
+    <string name="straight">Straight</string>
+    <string name="question_3_text1">What are the 4 suits on the cards?</string>
+    <string name="question_3_text2">Spades, Hearts, Diamonds and _______ .</string>
+    <string name="answer_here">Answer here</string>
+    <string name="question_4_text">What is the ranking of the following hand?</string>
+    <string name="one_pair">One pair</string>
+    <string name="score">_/4 Correct</string>
+</resources>
